@@ -28,8 +28,11 @@
 		
 13) encrypt <filename> <passkey>
 	encrypts the file in current directory
+    encrypt <folder-name> <passkey>
+	encrypts all the files in the given folder
 14) decrypt <filename> <passkey>
 15) addlabel <file name> <label>
 	2 cases folder,file
 16) space
 17) del // to delete account and data related to them
+18) 
